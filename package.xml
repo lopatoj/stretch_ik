@@ -14,7 +14,11 @@
     <depend>ompl</depend>
     <depend>std_msgs</depend>
     <depend>sensor_msgs</depend>
+    <depend>trajectory_msgs</depend>
+    <depend>control_msgs</depend>
+    <depend>tf2_ros</depend>
     <depend>urdf</depend>
+    <depend>PCL</depend>
 
     <buildtool_depend>ament_cmake</buildtool_depend>
 
